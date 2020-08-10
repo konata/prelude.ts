@@ -1,2 +1,2 @@
 # prelude.ts
-prelude type definitions for typescript
+the missing type definitions for typescript
