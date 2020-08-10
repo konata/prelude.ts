@@ -1,0 +1,23 @@
+{
+  "name": "prelude.ts",
+  "version": "1.0.0",
+  "description": "prelude type definitions for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolicon/prelude.ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolicon/prelude.ts/issues"
+  },
+  "homepage": "https://github.com/lolicon/prelude.ts#readme",
+  "dependencies": {
+    "typescript": "next"
+  }
+}
